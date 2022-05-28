@@ -2,9 +2,7 @@
 <!-- ![Header](./images/github-header-image1.png) -->
 <img src="./images/github-header-image1.png" align="center" style="width: 100%" />
 
-<a href="sm-mostafajamal.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139alt=portfolio style="margin-bottom: 5px;" />
-</a>  
+
 <a href="https://github.com/sm-mostafajamal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -20,9 +18,7 @@
 <a href="https://instagram.com/sm.mostafajamal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139alt=portfolio style="margin-bottom: 5px;" />
-</a>   
+
 </div>  
 
 
