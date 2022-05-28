@@ -3,13 +3,13 @@
 <img src="./images/github-header-image1.png" align="center" style="width: 100%" />
 </div>  
   
-
+<div align="center">
 ### I'm a Full-Stack Software Engineer👨‍💻, I am motivated by the power of technology as a tool for positive change🚀, with a background in Computer Science and Engineering.
+</div>  
   
-  
-
+<div align="center">
 *Visit [my website](sm-mostafajamal.netlify.app/)  for more information!*  
-  
+</div> 
 
 <br/>  
 
