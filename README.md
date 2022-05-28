@@ -1,7 +1,6 @@
 <div align="center">
 <!-- ![Header](./images/github-header-image1.png) -->
-![Header](/images/github-header-image1.png)
-
+<img src="./images/github-header-image1.png" align="center" style="width: 100%" />
 </div>  
   
 
