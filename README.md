@@ -26,10 +26,92 @@
 </div>   
   
 
-*<div align="center">Visit [my website](sm-mostafajamal.netlify.app/)  for more information!</div>*  
+*<div align="center">Visit [my website](https://sm-mostafajamal.netlify.app/) <a href='https://sm-mostafajamal.netlify.app/'></a>  for more information!</div>*  
   
 
 <br/>  
+
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"> 100devs-calculator</h3>
+        <br />
+        <a target="_blank" href="https://100devs-calculator.netlify.app/">
+            <img src="https://github.com/sm-mostafajamal/portfolio-2022/blob/master/images/calculator.jpg?raw=true" width="100%" alt="calculator App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/sm-mostafajamal/100devs-calculator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://100devs-calculator.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript</strong> - Simple calculator</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rock-Paper-Sissors</h3>
+        <br />
+      <a target="_blank" href="https://sm-mostafajamal.github.io/Rock-Paper-Sissors/">
+            <img src="./images/r.png" width="100%"  alt="Rock paper sissors"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/sm-mostafajamal/Rock-Paper-Sissors" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://sm-mostafajamal.github.io/Rock-Paper-Sissors/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS & Javascript</strong> - Game</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Website</h3>
+      <br />
+        <a target="_blank" href="https://sm-mostafajamal.netlify.app/">
+          <img src="#" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/sm-mostafajamal/portfolio-2022" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://sm-mostafajamal.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Mouse Sketch</h3>
+        <br />
+        <a target="_blank" href="https://sm-mostafajamal.github.io/Mouse_Sketch/">
+          <img src="https://github.com/sm-mostafajamal/portfolio-2022/blob/master/images/sketch.png" width="100%" alt="sketch"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/sm-mostafajamal/Mouse_Sketch" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://sm-mostafajamal.github.io/Mouse_Sketch/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -38,6 +120,8 @@
 ## <div align="center">My Skill Set  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 </div>
+
+---
 
 ## <div align="center">Connect with me  
 <div align="center">
