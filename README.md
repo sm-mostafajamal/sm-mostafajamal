@@ -79,7 +79,7 @@
       <h3 align="center">My Website</h3>
       <br />
         <a target="_blank" href="https://sm-mostafajamal.netlify.app/">
-          <img src="#" width="100%" alt="Portfolio"/>
+          <img src="./images/p.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
