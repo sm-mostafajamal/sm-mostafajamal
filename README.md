@@ -37,40 +37,40 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"> 100devs-calculator</h3>
+      <h3 align="center"> Story Blog</h3>
         <br />
-        <a target="_blank" href="https://100devs-calculator.netlify.app/">
-            <img src="https://github.com/sm-mostafajamal/portfolio-2022/blob/master/images/calculator.jpg?raw=true" width="100%" alt="calculator App"/>
+        <a target="_blank" href="http://story-blog-heroku.herokuapp.com/dashboard">
+            <img src="./images/gifs/storyBlog.gif" width="100%" alt="StoryBlog"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/sm-mostafajamal/100devs-calculator" target="_blank">
+  <a href="https://github.com/sm-mostafajamal/Story-Blog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://100devs-calculator.netlify.app/" target="_blank">
+  <a href="http://story-blog-heroku.herokuapp.com/dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Simple calculator</p>
+        <p><strong>JavaScript, Materialize, EJS, CSS3, Node.js, Express.js & Mongodb</strong>- Platform to create your stories or blog on public or for your personal as private. check the public stories and click on the writers name to read specific writers stories.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rock-Paper-Sissors</h3>
+      <h3 align="center">WorkLists</h3>
         <br />
-      <a target="_blank" href="https://sm-mostafajamal.github.io/Rock-Paper-Sissors/">
-            <img src="./images/r.png" width="100%"  alt="Rock paper sissors"/>
+      <a target="_blank" href="https://work-list-heroku.herokuapp.com/">
+            <img src="./images/gifs/worklist.gif" width="100%"  alt="WorkLists"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/sm-mostafajamal/Rock-Paper-Sissors" target="_blank">
+  <a href="https://github.com/sm-mostafajamal/Work-List" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://sm-mostafajamal.github.io/Rock-Paper-Sissors/" target="_blank">
+  <a href="https://work-list-heroku.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS & Javascript</strong> - Game</p>
+        <p><strong>JavaScript, EJS, CSS3, Node.js, Express.js & Mongodb</strong>- track your work add your task, click and strike if you completed.</p>
     </td>
   </tr>
   
@@ -96,7 +96,7 @@
       <h3 align="center">Mouse Sketch</h3>
         <br />
         <a target="_blank" href="https://sm-mostafajamal.github.io/Mouse_Sketch/">
-          <img src="https://github.com/sm-mostafajamal/portfolio-2022/blob/master/images/sketch.png" width="100%" alt="sketch"/>
+          <img src="./images/gifs/eskatch.gif" width="100%" alt="sketch"/>
         </a>
         <br />
         <p align="center">
