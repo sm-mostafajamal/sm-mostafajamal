@@ -36,7 +36,7 @@ _<div align="center">See [my website](https://sm-mostafajamal.netlify.app/) <a h
       <h3 align="center">Steadfast Communications</h3>
         <br />
       <a target="_blank" href="https://steadfastbd.netlify.app/">
-            <img src="./images/gifs/steadfast.gif" width="100%"  alt="WorkLists"/>
+            <img src="./images/gifs/steadfast.gif" width="100%"  alt="SteadfastBD"/>
         </a>
         <br />
         <p align="center">
@@ -96,8 +96,8 @@ _<div align="center">See [my website](https://sm-mostafajamal.netlify.app/) <a h
     <td width="50%" valign="top">
       <h3 align="center">Ecommerece</h3>
         <br />
-        <a target="_blank" href="https://sm-mostafajamal.github.io/Mouse_Sketch/">
-          <img src="./images/gifs/ecommerce.gif" width="100%" alt="sketch"/>
+        <a target="_blank" href="https://ecommerce-d.netlify.app/">
+          <img src="./images/gifs/ecommerce.png" width="100%" alt="ecommerce"/>
         </a>
         <br />
         <p align="center">
