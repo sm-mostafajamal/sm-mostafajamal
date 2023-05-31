@@ -94,32 +94,22 @@ _<div align="center">See [my website](https://sm-mostafajamal.netlify.app/) <a h
         <p><strong>Javascript, React, React Styled-component, React Context API</strong> - Portfolio Site with Dark mode and included links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Ecommerece</h3>
+      <h3 align="center">Steadfast Admin Panel</h3>
         <br />
-        <a target="_blank" href="https://ecommerce-d.netlify.app/">
-          <img src="./images/gifs/ecommerce.png" width="100%" alt="ecommerce"/>
+        <a target="_blank" href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel">
+          <img src="./images/gifs/admin.gif" width="100%" alt="ecommerce"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://ecommerce-d.netlify.app/" target="_blank">
+  <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/sm-mostafajamal/Ecommerce" target="_blank">
+  <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>"React",
-        <!-- // "Redux", -->
-      <!-- // "Redux toolkit", -->
-      <!-- // "Redux Persist", -->
-      <!-- // "React-Query", -->
-      "React-Router",
-      "Styled-Component",
-      <!-- // "Express.js", -->
-      <!-- // "Node.js", -->
-      <!-- // "MongoDB", -->
-      "React-Material-ui"</strong> - Built with MERN stack a responsive website where user has to register or log in so that they can purchase items. Admin can check the users product that they want to purchase also they can check the profile in dashboard.</p>
+        <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query,React-Router, Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap, JWT Authrization</strong> - This is the Steadfast Communications Admin panel where the admin can create, delete, update, or check the jobs. Also, they can receive the applied job data which is submitted by the candidate. The admin panel supports Dark mode.</p>
     </td>
   </tr>
 </table>
