@@ -52,10 +52,10 @@ _<div align="center">See [my website](https://sm-mostafajamal.netlify.app/) <a h
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query, React-Router,Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap</strong>- Steadfast Communications is the sister concern of Steadfast International Services, LLC. Which is the leading talent acquisition platform that delivers top candidates to enterprises by leveraging the largest community of recruiters and sourcing technology platforms.</p>
+        <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query, React-Router,Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap</strong> - Steadfast Communications is the sister concern of Steadfast International Services, LLC. Which is the leading talent acquisition platform that delivers top candidates to enterprises by leveraging the largest community of recruiters and sourcing technology platforms.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"> Story Blog</h3>
+      <h3 align="center"> Story-Blog</h3>
         <br />
         <a target="_blank" href="https://story-blog.onrender.com/">
             <img src="./images/gifs/storyBlog.gif" width="100%" alt="StoryBlog"/>
@@ -70,7 +70,7 @@ _<div align="center">See [my website](https://sm-mostafajamal.netlify.app/) <a h
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript, Materialize, EJS, CSS3, Node.js, Express.js & Mongodb</strong>- Platform to create your stories or blog on public or for your personal as private. check the public stories and click on the writers name to read specific writers stories.</p>
+        <p><strong>JavaScript, Materialize, EJS, CSS3, Node.js, Express.js & Mongodb</strong> - Platform to create your stories or blog on public or for your personal as private. check the public stories and click on the writers name to read specific writers stories.</p>
     </td>
 
   </tr>
