@@ -32,7 +32,24 @@ _<div align="center">See [my website](https://sm-mostafajamal.netlify.app/) <a h
 <table bordercolor="#66b2b2">
   
   <tr>
-      <td width="50%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">Inventory Management</h3>
+      <br />
+      <a target="_blank" href="http://www.inventory-management.000.pe">
+        <img src="./images/gifs/inventory_management.gif" width="100%" alt="inventory management"/>
+      </a>
+      <br />
+      <p align="center">
+      <a href="https://github.com/sm-mostafajamal/inventory_management" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+      <a href="http://www.inventory-management.000.pe" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
+      </p>
+        <p><strong>Javascript, PHP, Laravel, MySQL, JQuery, Ajax, Bootstrap, CSS</strong> - Inventory Management to keep track of sales and ordered products with the company information. Get analytics on dashboard of daily, monthly sales and remaining product</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Steadfast Communications</h3>
         <br />
       <a target="_blank" href="https://steadfastbd.netlify.app/">
@@ -40,113 +57,93 @@ _<div align="center">See [my website](https://sm-mostafajamal.netlify.app/) <a h
         </a>
         <br />
         <p align="center">
-  <span>Client-side </span>        
-  <a href="https://github.com/sm-mostafajamal/steadfast-frontend" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <span>Server-side </span>        
-  <a href="https://github.com/sm-mostafajamal/steadfast-backend" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://steadfastbd.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <span>Client-side </span>        
+        <a href="https://github.com/sm-mostafajamal/steadfast-frontend" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <span>Server-side </span>        
+        <a href="https://github.com/sm-mostafajamal/steadfast-backend" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://steadfastbd.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+         </a>
       </p>
-        <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query, React-Router,Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap</strong> - Steadfast Communications is the sister concern of Steadfast International Services, LLC. Which is the leading talent acquisition platform that delivers top candidates to enterprises by leveraging the largest community of recruiters and sourcing technology platforms.</p>
+      <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query, React-Router,Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap</strong> - Steadfast Communications is the sister concern of Steadfast International Services, LLC. Which is the leading talent acquisition platform that delivers top candidates to enterprises by leveraging the largest community of recruiters and sourcing technology platforms.</p>
     </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center"> Story-Blog</h3>
-        <br />
-        <a target="_blank" href="https://story-blog.onrender.com/">
-            <img src="./images/gifs/storyBlog.gif" width="100%" alt="StoryBlog"/>
+      <br />
+      <a target="_blank" href="https://story-blog.onrender.com/">
+          <img src="./images/gifs/storyBlog.gif" width="100%" alt="StoryBlog"/>
+      </a>
+      <br />
+      <p align="center"> 
+        <a href="https://github.com/sm-mostafajamal/Story-Blog" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://story-blog.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/sm-mostafajamal/Story-Blog" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://story-blog.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>JavaScript, Materialize, EJS, CSS3, Node.js, Express.js & Mongodb</strong> - Platform to create your stories or blog on public or for your personal as private. check the public stories and click on the writers name to read specific writers stories.</p>
+      <p><strong>JavaScript, Materialize, EJS, CSS3, Node.js, Express.js & Mongodb</strong> - Platform to create your stories or blog on public or for your personal as private. check the public stories and click on the writers name to read specific writers stories.</p>
     </td>
-
+    <td width="50%" valign="top">
+      <h3 align="center">Steadfast Admin Panel</h3>
+      <br />
+      <a target="_blank" href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel">
+        <img src="./images/gifs/admin.gif" width="100%" alt="ecommerce"/>
+      </a>
+      <br />
+      <p align="center">  
+        <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+        <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query,React-Router, Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap, JWT Authrization</strong> - This is the Steadfast Communications Admin panel where the admin can create, delete, update, or check the jobs. Also, they can receive the applied job data which is submitted by the candidate. The admin panel supports Dark mode.</p>
+    </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
-        <a target="_blank" href="https://sm-mostafajamal.netlify.app/">
+      <a target="_blank" href="https://sm-mostafajamal.netlify.app/">
           <img src="./images/gifs/portfolio.gif" width="100%" alt="Portfolio"/>
-        </a>
+      </a>
       <br />
-        <p align="center">
-  <a href="https://github.com/sm-mostafajamal/portfolio-2023" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://sm-mostafajamal.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+      <p align="center">
+        <a href="https://github.com/sm-mostafajamal/portfolio-2023" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://sm-mostafajamal.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
       </p>
-        <p><strong>Javascript, React, React Styled-component, React Context API</strong> - Portfolio Site with Dark mode and included links to my projects and ways to get in contact with me.</p>
+      <p><strong>Javascript, React, React Styled-component, React Context API</strong> - Portfolio Site with Dark mode and included links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Steadfast Admin Panel</h3>
-        <br />
-        <a target="_blank" href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel">
-          <img src="./images/gifs/admin.gif" width="100%" alt="ecommerce"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query,React-Router, Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap, JWT Authrization</strong> - This is the Steadfast Communications Admin panel where the admin can create, delete, update, or check the jobs. Also, they can receive the applied job data which is submitted by the candidate. The admin panel supports Dark mode.</p>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
+      <h3 align="center">AniTrack</h3>
       <br />
-        <a target="_blank" href="https://sm-mostafajamal.netlify.app/">
-          <img src="./images/gifs/portfolio.gif" width="100%" alt="Portfolio"/>
-        </a>
+      <a target="_blank" href="https://ani-track.vercel.app/">
+        <img src="./images/gifs/anitrack.gif" width="100%" alt="anitrack"/>
+      </a>
       <br />
-        <p align="center">
-  <a href="https://github.com/sm-mostafajamal/portfolio-2023" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://sm-mostafajamal.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, React, React Styled-component, React Context API</strong> - Portfolio Site with Dark mode and included links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Steadfast Admin Panel</h3>
-        <br />
-        <a target="_blank" href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel">
-          <img src="./images/gifs/admin.gif" width="100%" alt="ecommerce"/>
+      <p align="center">
+        <a href="https://github.com/sm-mostafajamal/AniTrack" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://github.com/sm-mostafajamal/Steadfast-Admin-Panel" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <a href="https://ani-track.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
       </p>
-        <p><strong>JavaScript, React, Redux, Redux toolkit, Redux Persist, React-Query,React-Router, Styled-Component, Express.js, Node.js, MongoDB, React-Bootstrap, JWT Authrization</strong> - This is the Steadfast Communications Admin panel where the admin can create, delete, update, or check the jobs. Also, they can receive the applied job data which is submitted by the candidate. The admin panel supports Dark mode.</p>
+      <p><strong>Javascript, React,  Redux, Redux toolkit, Redux Persist, React-Query,React-Router, Styled-Component, Jikan API</strong> - fetiching data from jikan api live, and with infinity scroll. keep track the anime you watched and check latest, top animes</p>
     </td>
   </tr>
 </table>
